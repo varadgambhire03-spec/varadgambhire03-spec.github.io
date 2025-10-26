@@ -15,6 +15,6 @@ My goal is to bridge the gap between development and security, aiming for a care
 * **B.Tech, Computer Science & Engineering (Cybersecurity)**
 * [IIIT KOTTAYAM] (Expected Graduation 2028)
 * 
-## Connect With Me
+##  Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/varad-gambhire-380909341/
 * **GitHub:** https://github.com/varadgambhire03-spec
